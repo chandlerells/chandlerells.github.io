@@ -28,4 +28,4 @@ have a strong background in programming.
 `How do you view yourself in relation to these two areas?`
 
 I find myself interested in the tasks and duties of data scientists, but wanting to 
-understand more of the theory behind many of the models and algorithms used. 
+understand more of the theory behind many of the models and algorithms used.
