@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This site is intended for responding to prompts in my ST 558 class and gaining familiarity with git and github.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am currently a first year masters student at NC State in the department of statistics.
