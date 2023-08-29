@@ -11,3 +11,4 @@ Feel free to reach me at `ckellswo@ncsu.edu`
 ![](C:/Users/chand/OneDrive/Documents/ST 558/HW/HW 1/Chandler Head Shot.jpeg)
 
 
+
