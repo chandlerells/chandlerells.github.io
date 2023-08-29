@@ -8,8 +8,8 @@ This site is intented for:
 
 Feel free to reach me at `ckellswo@ncsu.edu`
 
-![Chandler Head Shot](https://github.com/chandlerells/chandlerells.github.io/assets/125317184/980b8c92-bb12-44ae-86c3-eebef77d03e8)
-![Chandler Head Shot](file:///C:/Users/chand/OneDrive/Documents/ST%20558/HW/HW%201/nba-logo-vector.svg)
+![Chandler Head Shot](https://github.com/chandlerells/chandlerells.github.io/assets/125317184/9a376c52-bc30-42fa-a861-7175079d6caa)
+
 
 
 
