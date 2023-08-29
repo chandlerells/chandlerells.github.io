@@ -8,7 +8,7 @@ This site is intented for:
 
 Feel free to reach me at `ckellswo@ncsu.edu`
 
-![Chandler Head Shot](https://github.com/chandlerells/chandlerells.github.io/assets/125317184/fc32f058-587b-449d-8df3-79afdb6e50c7)
+![Chandler Head Shot](https://github.com/chandlerells/chandlerells.github.io/assets/125317184/980b8c92-bb12-44ae-86c3-eebef77d03e8)
 
 
 
