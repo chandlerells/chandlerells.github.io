@@ -1,4 +1,4 @@
-# Exporatory Data Analysis (EDA) Respnose Post
+# Exploratory Data Analysis (EDA) Response Post
 
 `Prompt`"
 Exploratory Data Analysis (EDA) is often the first step of dealing with data.  However, EDA is somewhat of an art and something that you get better at with experience. 
