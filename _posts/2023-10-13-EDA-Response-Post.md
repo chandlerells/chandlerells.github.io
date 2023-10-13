@@ -1,11 +1,11 @@
 # Exploratory Data Analysis (EDA) Response Post
 
-`Prompt`"
+`Prompt`:  
 Exploratory Data Analysis (EDA) is often the first step of dealing with data.  However, EDA is somewhat of an art and something that you get better at with experience. 
 Often people new to EDA don't know what they should be looking for!
 For your blog post, write up the strategy you use for EDA. What is your overall goal when doing an EDA? What methods do you think are important? What things do you try to look for? 
 
-`Response`:
+`Response`:  
 After reading through the articles provided, it seems one of the most challenging components of EDA is knowing where to start or what to look for. It seems like an easy task
 to jump straight into the data without first having a higher level goal of understanding your data and what you want to uncover through your analysis. EDA seems to be a crucial 
 component before one jumps into modeling the data, as many problems can arise later on if one does not have a solid understanding of the different characteristics of the data they 
