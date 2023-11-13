@@ -6,7 +6,7 @@ My partner and I did a great job at managing our time and having good communicat
 were some challenges along the way with certain parts of the code, but we worked through them together, ensuring help was provided when needed.
 
 The following links to the project are provided below:  
-* [Rendered Repo]()
+* [Rendered Repo](https://ericwarren9.github.io/ST-558-Project-3/)
 * [Github repo](https://github.com/ericwarren9/ST-558-Project-3)
 
 Some reflection questions:  
